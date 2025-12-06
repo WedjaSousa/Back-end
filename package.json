@@ -1,0 +1,17 @@
+{
+  "name": "backend-crud",
+  "version": "1.0.0",
+  "description": "Backend para CRUD",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "devDependencies": {
+    "cors": "^2.8.5",
+    "express": "^5.1.0",
+    "install": "^0.13.0",
+    "nodemon": "^3.1.11",
+    "npm": "^11.6.3"
+  }
+}
